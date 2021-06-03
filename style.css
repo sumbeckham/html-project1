@@ -5,7 +5,7 @@
 }
 
 header{
-	background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(../45.png);
+	background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(45.png);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -82,7 +82,7 @@ ul li.active a{
 body{
 	margin: 0;
 	padding: 0;
-	background-image: url(../78.jpg);
+	background-image: url(78.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
